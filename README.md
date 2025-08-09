@@ -10,6 +10,7 @@ A calm, minimal, and, most importantly, _purple_ Hyprland setup
  * **[Hyprshot](https://github.com/Gustash/Hyprshot)**
  * **[Hyprshot-GUI](https://github.com/s-adi-dev/hyprshot-gui)**
  * **[Kitty](https://github.com/kovidgoyal/kitty)**
+ * **[Kvantum](https://github.com/tsujan/Kvantum)**
  * **[Mako](https://github.com/emersion/mako)**
  * **[Nwg-look](https://github.com/nwg-piotr/nwg-look)**
  * **[Waybar](https://github.com/Alexays/Waybar)**
@@ -23,6 +24,7 @@ yay -Sy fuzzel-git
 sudo pacman -Sy hyprpaper
 yay -Sy hyprshot-gui
 sudo pacman -Sy kitty
+sudo pacman -Sy kvantum
 sudo pacman -Sy mako
 sudo pacman -Sy nwg-look
 sudo pacman -Sy waybar
