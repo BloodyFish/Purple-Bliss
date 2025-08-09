@@ -1,0 +1,24 @@
+* {
+  font-family: notosansmono;
+  font-size: 11px;
+  color: white;
+  background: transparent;
+}
+
+#clock, #network, #battery, #pulseaudio {
+  padding: 0 10px;
+}
+
+.modules-left{
+  background: black;
+  margin-top: 4px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.modules-right{
+  background: black;
+  margin-top: 4px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}

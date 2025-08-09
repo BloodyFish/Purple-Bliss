@@ -1,0 +1,12 @@
+[colors]
+background = 1e1e2eDD
+text = bac2deFF
+selection = f5e0dcFF
+border= b4befeFF
+
+[border]
+radius= 10px
+width= 3
+
+[main]
+font = monospace:size=10
