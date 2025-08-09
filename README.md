@@ -20,14 +20,14 @@ A calm, minimal, and, most importantly, _purple_ Hyprland setup
 _Make sure to instal yay before copying the following commands_
 ```
 sudo pacman -Sy brightnessctl
-yay -Sy fuzzel-git
-sudo pacman -Sy hyprpaper
-yay -Sy hyprshot-gui
-sudo pacman -Sy kitty
-sudo pacman -Sy kvantum
-sudo pacman -Sy mako
-sudo pacman -Sy nwg-look
-sudo pacman -Sy waybar
+yay -S fuzzel-git
+sudo pacman -S hyprpaper
+yay -S hyprshot-gui
+sudo pacman -S kitty
+sudo pacman -S kvantum
+sudo pacman -S mako
+sudo pacman -S nwg-look
+sudo pacman -S waybar
 ```
 ## Install
 ```
